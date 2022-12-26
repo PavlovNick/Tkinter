@@ -1,6 +1,6 @@
 # Tkinter
 
-It is a program which written with Tkinter
+It is a program which written with Tkinter (Python GUI)
 
 ### gmail_enter_send.pyw
 
@@ -30,3 +30,7 @@ IZjeNdAJTEwhHorMYpOsCJX2V0Se6EJJ0Pf42VQMToUeWTvs-UYk6FV0R0GNAhm5qjJYc52-XOZLLc9U
 
 Додаток запускається як звичайний .exe файл (я за те, що достатньо просто двічі 
 клацнути мишкою по ньому) (на Windows), це при умові, якщо встановлений python.
+
+### tkinter_2.pyw
+
+A simple program for calculating room reservations
